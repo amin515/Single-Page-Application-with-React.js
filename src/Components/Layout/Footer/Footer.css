@@ -1,0 +1,16 @@
+
+.footer-section{
+    background-image:linear-gradient(rgba(0,0,0,.8) 50%, rgba(0,0,0,.8) 50%) , url('https://t4.ftcdn.net/jpg/03/84/55/29/360_F_384552930_zPoe9zgmCF7qgt8fqSedcyJ6C6Ye3dFs.jpg') ;
+    background-repeat: no-repeat;
+    background-position: 50 50;
+    background-size: cover;
+    object-fit: cover;
+    height: 60vh;
+}
+
+.content{
+    color: #fff;
+    z-index: 999999;
+    text-align: center;
+    margin-top: 30%;
+}

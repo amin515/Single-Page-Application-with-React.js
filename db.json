@@ -1,0 +1,47 @@
+{
+  "item": [
+    {
+      "name": "Abu Sufian",
+      "email": "amin.abcgroup@yahoo.com",
+      "age": "34",
+      "username": "amin125",
+      "cell": "01779889623",
+      "gender": "Male",
+      "photo": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "facebook": "",
+      "twitter": "",
+      "linkedin": "",
+      "instagram": "",
+      "id": 1
+    },
+    {
+      "name": "ferdousi akter",
+      "email": "fer254@gmail.com",
+      "age": "18",
+      "username": "fer325",
+      "cell": "0130325686",
+      "gender": "Female",
+      "photo": "https://ichef.bbci.co.uk/news/976/cpsprodpb/FD27/production/_101970846_aubreyblanche.jpg",
+      "facebook": "",
+      "twitter": "",
+      "linkedin": "",
+      "instagram": "",
+      "id": 2
+    },
+    {
+      "name": "Sima Akter",
+      "email": "simma@gmail.com",
+      "age": "35",
+      "cell": "01236547898",
+      "gender": "Female",
+      "photo": "https://cdn.thetealmango.com/wp-content/uploads/2022/02/Yael-Shelbia.jpg",
+      "facebook": "#",
+      "twitter": "#",
+      "linkedin": "",
+      "instagram": "",
+      "username": "sosmah254",
+      "skill": "MongoDB",
+      "id": 4
+    }
+  ]
+}
